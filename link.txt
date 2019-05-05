@@ -1,0 +1,12 @@
+chromedriver
+http://chromedriver.chromium.org/downloads
+
+[網路爬蟲]運用selenium開啟chrome瀏覽器
+https://medium.com/@bob800530/selenium-1-%E9%96%8B%E5%95%9Fchrome%E7%80%8F%E8%A6%BD%E5%99%A8-21448980dff9
+
+Python 使用 Beautiful Soup 抓取與解析網頁資料，開發網路爬蟲教學
+https://blog.gtwang.org/programming/python-beautiful-soup-module-scrape-web-pages-tutorial/2/
+
+Python爬蟲新手筆記
+https://pala.tw/python-web-crawler/
+
